@@ -1,4 +1,4 @@
-package com.boletin12;
+package com.colaborando;
 
 public class Main {
 
